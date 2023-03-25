@@ -10,6 +10,9 @@
   grid-template-columns:1fr 1fr 1fr 1fr;
   gap:45px
 }
+.nav-link{
+  color: #0D6EFD;
+}
 
 @media screen and (max-width:992px) {
   #card-grid{
